@@ -15,7 +15,7 @@ To compile, open a new Python3 Colab Notebook and follow the steps below. Ensure
 ! cd weasel-keygen && make guess
 ```
 
-To generate a password, simply run keygen.py. To make the process faster, a part of the password is randomly generated while the other half is calculated. As a result, ocasionally it may fail to generate a password, in that case retry. Examples
+To generate a password, simply run keygen.py. To make the process faster, a part (10 bits) of the password is randomly generated while the other half (40 bits) is calculated. As a result, ocasionally it may fail to generate a password, in that case retry. Examples
 
 ```
 ! cd weasel-keygen && ./keygen.py 0xec
