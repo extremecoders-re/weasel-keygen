@@ -37,3 +37,8 @@ Password: RAGWC-XW6VP
 ```
 
 You can also run the keygen on Kaggle. https://www.kaggle.com/extremecoders/weasel-keygen?scriptVersionId=27419227
+
+# Further Read
+
+- [An adaption of the crossbred algorithm for solving multivariate quadratic systems over F2 on GPUs](https://pure.tue.nl/ws/portalfiles/portal/91105984/NING.K_parallel_cb_v103.pdf)
+- [Implementing Joux-Vitse’s Crossbred Algorithm for Solving MQSystems over F2 on GPUs](https://eprint.iacr.org/2017/1181.pdf)
