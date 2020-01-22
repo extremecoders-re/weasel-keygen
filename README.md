@@ -5,7 +5,7 @@ This is a keygen to solve the [weasel keygenme challenge](https://forum.tuts4you
 
 ## Compile Instructions
 
-To compile, open a new Python3 Colab Notebook and follow the steps below. Ensure that the project Hardware Accelerator  is set to GPU. Alternatively, use [this notebook](https://colab.research.google.com/drive/1ncoLENvfWLTMF-7hTzWdBOv9ZpBxEKxC).
+To compile, open a new Python3 Colab Notebook and follow the steps below. Ensure that the project Hardware Accelerator  is set to GPU. Alternatively, use [this notebook](https://colab.research.google.com/drive/1ncoLENvfWLTMF-7hTzWdBOv9ZpBxEKxC) and "Open in Playground" to run.
 
 ```
 ! git clone https://github.com/extremecoders-re/weasel-keygen
