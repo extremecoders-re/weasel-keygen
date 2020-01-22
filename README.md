@@ -19,7 +19,6 @@ To generate a password, simply run keygen.py. To make the process faster, a part
 
 ```
 ! cd weasel-keygen && ./keygen.py 0xec
-
 Username:  0xec
 Password: YBG3T-6EWUG
 ```
