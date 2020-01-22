@@ -36,4 +36,4 @@ Username:  extremecoders
 Password: RAGWC-XW6VP
 ```
 
-
+You can also run the keygen on Kaggle. https://www.kaggle.com/extremecoders/weasel-keygen?scriptVersionId=27419227
